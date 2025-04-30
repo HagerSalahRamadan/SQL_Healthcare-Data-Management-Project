@@ -33,7 +33,7 @@ Transforming a real-world healthcare dataset from a raw CSV file into a fully no
 ![ERD Diagram](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/SQL_Project_ERD.drawio.png)
 
 ### 📸 Normalization & Relational Mapping:
-![Normalization Mapping](./images/Normalization_Mapping.png)
+![Normalization Mapping](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/SQLProject_Normalization_and_Mapping.drawio.png)
 
 ---
 
@@ -43,7 +43,7 @@ Transforming a real-world healthcare dataset from a raw CSV file into a fully no
 - Structured the final normalized database using SQL DDL scripts.
 
 ### 📸 SQL Server Database Diagram:
-![Database Diagram](./images/Database_Diagram.png)
+![Database Diagram](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/SQL_Server_DatabaseDiagram.png)
 
 ---
 
@@ -67,36 +67,36 @@ Transforming a real-world healthcare dataset from a raw CSV file into a fully no
 Retrieve the names and genders of all patients.
 Display all patients with blood type O+.
 
-![SELECT Query](./images/select_query.png)
+![SELECT Query](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/1-Basic%20SELECT%20%26%20WHERE%20Filtering.jpg)
 
 
 #### 🔹 Aggregation + GROUP BY & ORDER BY Sorting
 Count the number of patients in each blood type.
 Order patients by age from oldest to youngest.
-![GROUP BY](./images/groupby_query.png)
+![GROUP BY](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/2-Aggregation%20%2B%20GROUP%20BY%20%26%20ORDER%20BY%20Sorting.jpg)
 
 
 #### 🔹 JOIN with Condition
 Display all patients treated in 'Carter Ltd' using JOIN.
 Display patients admitted through 'Emergency'	
-![JOIN Query](./images/join_query.png)
+![JOIN Query](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/3-JOINS.jpg)
 
 
 #### 🔹 DATEDIFF Function & CASE Statement + JOIN + Filtering
 Patients discharged 10+ days after admission.
 Classify patients as Senior or Adult based on age.
-![DATEDIFF Query](./images/datediff_query.png)
+![DATEDIFF Query](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/4-DATEDIFF%20Function%20%26%20CASE%20Statement%20%2B%20JOIN%20%2B%20Filtering.jpg)
 
 
 #### 🔹 Aggregation Function + HAVING & Subquery Filtering
 List patients who were admitted more than once.
 Show patients with billing amounts above the average.
-![HAVING Query](./images/having_query.png)
+![HAVING Query](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/5-Aggregation%20Function%20%2B%20HAVING%20%26%20Subquery.jpg)
 
 
 #### 🔹 CTE Usage
 Using a CTE, show patients over age 40 admitted as 'Urgent'.
-![CTE Query](./images/cte_query.png)
+![CTE Query](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/6-CTE.jpg)
 ---
 
 ---
