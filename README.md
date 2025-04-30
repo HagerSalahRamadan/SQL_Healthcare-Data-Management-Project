@@ -30,7 +30,7 @@ Transforming a real-world healthcare dataset from a raw CSV file into a fully no
 - Mapped relationships between entities and ensured referential integrity using Primary and Foreign Keys.
 
 ### 📸 ERD Diagram:
-![ERD Diagram]([/images/ERD_Diagram.png](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/SQL_Project_ERD.drawio.png))
+![ERD Diagram](https://github.com/HagerSalahRamadan/SQL_Healthcare-Data-Management-Project/blob/main/SQL_Project_ERD.drawio.png)
 
 ### 📸 Normalization & Relational Mapping:
 ![Normalization Mapping](./images/Normalization_Mapping.png)
